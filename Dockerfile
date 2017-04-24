@@ -7,7 +7,7 @@ RUN apk --update add \
         make \
         g++ \
  &&     rm -rf /var/cache/apk/* \
- && 	npm install -g screeps@2.3.X \
+ && 	npm install -g screeps@2.2.X \
  &&     adduser -S -g 'Screeps Private Server' -h '/screeps' screeps-server
 
 COPY entrypoint.sh /usr/local/bin/
