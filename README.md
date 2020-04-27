@@ -5,6 +5,8 @@ The source for the containers can be found on [Github](https://github.com/brayde
 
 The container builds can be found on [Docker Hub](https://hub.docker.com/r/braydeejohnson/screeps-server/)
 
+This repo was referenced/semi-forked from [mitcdh's docker-screeps](https://github.com/mitcdh/docker-screeps)
+
 
 # Screeps
 [Screeps](https://screeps.com) is a MMO RTS sandbox game for programmers, wherein the core mechanic is programming your units AI. You control your colony by writing JavaScript which operate 24/7 in the single persistent world filled by other players on par with you.
